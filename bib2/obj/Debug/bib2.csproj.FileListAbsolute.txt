@@ -1,0 +1,100 @@
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\bib2.exe.config
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\bib2.exe
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\bib2.pdb
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\MaterialDesignColors.dll
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\wierz\source\repos\bib2\bib2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.csprojAssemblyReference.cache
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\MainWindow.g.cs
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\App.g.cs
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2_MarkupCompile.cache
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2_MarkupCompile.lref
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\MainWindow.baml
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.g.resources
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.Properties.Resources.resources
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.csproj.GenerateResource.cache
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.csproj.CoreCompileInputs.cache
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.csproj.CopyComplete
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.exe
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\bib2.pdb
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\Window2.g.cs
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\Window2.baml
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\Window3.g.cs
+C:\Users\wierz\source\repos\bib2\bib2\obj\Debug\Window3.baml
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\bib2.exe.config
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\bib2.exe
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\bib2.pdb
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\MaterialDesignColors.dll
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.csprojAssemblyReference.cache
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\MainWindow.g.cs
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\Window2.g.cs
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\Window3.g.cs
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\App.g.cs
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2_MarkupCompile.cache
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2_MarkupCompile.lref
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\MainWindow.baml
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\Window2.baml
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\Window3.baml
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.g.resources
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.Properties.Resources.resources
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.csproj.GenerateResource.cache
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.csproj.CopyComplete
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.exe
+C:\Users\wierz\Desktop\Jura Przemysław Aplikacja WPF\bin2\bib2\obj\Debug\bib2.pdb
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\bib2.exe.config
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\bib2.exe
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\bib2.pdb
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\MaterialDesignColors.dll
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.csprojAssemblyReference.cache
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\MainWindow.g.cs
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\Window2.g.cs
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\Window3.g.cs
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\App.g.cs
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2_MarkupCompile.cache
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2_MarkupCompile.lref
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\MainWindow.baml
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\Window2.baml
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\Window3.baml
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.g.resources
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.Properties.Resources.resources
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.csproj.GenerateResource.cache
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.csproj.CopyComplete
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.exe
+C:\Users\wierz\Desktop\JuraPrzemysławAplikacjaWPF\bin2\bib2\obj\Debug\bib2.pdb
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\bib2.exe.config
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\bib2.exe
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\bib2.pdb
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\MaterialDesignColors.dll
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.csprojAssemblyReference.cache
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\MainWindow.g.cs
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\Window2.g.cs
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\Window3.g.cs
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\App.g.cs
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2_MarkupCompile.cache
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2_MarkupCompile.lref
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\MainWindow.baml
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\Window2.baml
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\Window3.baml
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.g.resources
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.Properties.Resources.resources
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.csproj.GenerateResource.cache
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.csproj.CoreCompileInputs.cache
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.csproj.CopyComplete
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.exe
+C:\Users\wierz\Documents\GitHub\WPFapplication\bib2\obj\Debug\bib2.pdb

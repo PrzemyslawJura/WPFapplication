@@ -1,0 +1,51 @@
+1
+Gra o tron
+George R. R. Martin
+1996
+false
+2
+Stephen King
+To
+1986
+false
+3
+Stephen King
+Lśnienie
+1977
+true
+4
+Stephen King
+Zielona mila
+1996
+false
+5
+Ogień i krew
+George R. R. Martin
+2018
+true
+6
+Kasacja
+Remigiusz Mróz
+2015
+false
+7
+Hávamál – Pieśni Najwyższego
+
+
+false
+8
+Start a Fire. Runda druga
+Herytiera P.S. 
+2022
+true
+9
+sfd
+
+
+false
+10
+ksssss
+
+
+false
+
