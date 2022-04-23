@@ -1,3 +1,3 @@
 # WPFapplication
 
-Aplikacja WPF, która jest biblioteczką. Umożliwia dodawanie, uuswanie i modyfikowanie książek.
+Aplikacja WPF, spełnijąca rolę biblioteczki. Umożliwia dodawanie, uuswanie i modyfikowanie książek. Wykorzystuje do tego odczyt i zapis do plików.
